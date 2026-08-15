@@ -56,7 +56,7 @@
             "last_commit": "2025-09-01T01:37:37Z",
             "owner": "InternRobotics",
             "repo": "OpenHomie",
-            "stars": 601
+            "stars": 602
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2024-09-27T02:38:47Z",
             "owner": "OpenTeleVision",
             "repo": "TeleVision",
-            "stars": 1294
+            "stars": 1295
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2024-09-27T02:38:47Z",
             "owner": "OpenTeleVision",
             "repo": "TeleVision",
-            "stars": 1294
+            "stars": 1295
           }
         },
         {
@@ -264,7 +264,7 @@
             "last_commit": "2025-09-01T01:37:37Z",
             "owner": "InternRobotics",
             "repo": "OpenHomie",
-            "stars": 601
+            "stars": 602
           }
         },
         {
@@ -292,7 +292,7 @@
             "last_commit": "2026-07-22T19:18:18Z",
             "owner": "GalaxyGeneralRobotics",
             "repo": "Humanoid-GPT",
-            "stars": 419
+            "stars": 420
           }
         },
         {
@@ -458,7 +458,7 @@
             "last_commit": "2024-07-24T08:41:52Z",
             "owner": "UZ-SLAMLab",
             "repo": "ORB_SLAM3",
-            "stars": 8949
+            "stars": 8951
           }
         },
         {
@@ -472,7 +472,7 @@
             "last_commit": "2024-05-23T09:17:03Z",
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Fusion",
-            "stars": 4665
+            "stars": 4667
           }
         },
         {
@@ -506,7 +506,7 @@
             "last_commit": "2024-12-12T12:01:58Z",
             "owner": "MuShibo",
             "repo": "Micro-Wheeled_leg-Robot",
-            "stars": 3431
+            "stars": 3433
           }
         },
         {
@@ -534,7 +534,7 @@
             "last_commit": "2025-05-24T02:12:38Z",
             "owner": "zeroth-robotics",
             "repo": "zeroth-bot",
-            "stars": 816
+            "stars": 817
           }
         },
         {
@@ -548,7 +548,7 @@
             "last_commit": "2026-07-31T07:04:15Z",
             "owner": "hshi74",
             "repo": "toddlerbot",
-            "stars": 724
+            "stars": 730
           }
         },
         {
@@ -593,10 +593,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T22:13:24Z",
+            "last_commit": "2026-08-14T19:45:47Z",
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 29740
+            "stars": 29741
           }
         },
         {
@@ -610,7 +610,7 @@
             "last_commit": "2026-08-04T16:38:18Z",
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3221
+            "stars": 3225
           }
         },
         {
@@ -624,7 +624,7 @@
             "last_commit": "2026-08-09T05:55:27Z",
             "owner": "google-deepmind",
             "repo": "mujoco_playground",
-            "stars": 2147
+            "stars": 2149
           }
         },
         {
@@ -638,7 +638,7 @@
             "last_commit": "2025-01-26T08:11:29Z",
             "owner": "roboterax",
             "repo": "humanoid-gym",
-            "stars": 2064
+            "stars": 2066
           }
         },
         {
@@ -652,7 +652,7 @@
             "last_commit": "2026-08-07T17:44:23Z",
             "owner": "robocasa",
             "repo": "robocasa",
-            "stars": 1645
+            "stars": 1646
           }
         },
         {
@@ -784,7 +784,7 @@
             "last_commit": "2026-02-04T17:32:14Z",
             "owner": "mshoe",
             "repo": "PARC",
-            "stars": 343
+            "stars": 344
           }
         }
       ],
@@ -826,7 +826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T05:01:12.777Z",
+    "last_updated": "2026-08-15T03:53:03.912Z",
     "original_repository": "YanjieZe/awesome-humanoid-robot-learning",
     "original_repository_sha": "745ef038c841d97b3a3b22ae650391e63da4856a",
     "enhanced_repository": "enhansome/enhansome-humanoid-robot-learning",
