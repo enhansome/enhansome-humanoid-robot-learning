@@ -160,7 +160,7 @@
             "last_commit": "2024-11-10T23:38:16Z",
             "owner": "SimarKareer",
             "repo": "EgoMimic",
-            "stars": 215
+            "stars": 216
           }
         },
         {
@@ -202,7 +202,7 @@
             "last_commit": "2026-05-04T07:42:16Z",
             "owner": "BeingBeyond",
             "repo": "Being-H0",
-            "stars": 57
+            "stars": 58
           }
         }
       ],
@@ -292,7 +292,7 @@
             "last_commit": "2026-07-22T19:18:18Z",
             "owner": "GalaxyGeneralRobotics",
             "repo": "Humanoid-GPT",
-            "stars": 424
+            "stars": 425
           }
         },
         {
@@ -458,7 +458,7 @@
             "last_commit": "2024-07-24T08:41:52Z",
             "owner": "UZ-SLAMLab",
             "repo": "ORB_SLAM3",
-            "stars": 8960
+            "stars": 8961
           }
         },
         {
@@ -472,7 +472,7 @@
             "last_commit": "2024-05-23T09:17:03Z",
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Fusion",
-            "stars": 4668
+            "stars": 4671
           }
         },
         {
@@ -486,7 +486,7 @@
             "last_commit": "2021-01-30T22:12:14Z",
             "owner": "MIT-SPARK",
             "repo": "Kimera",
-            "stars": 2117
+            "stars": 2116
           }
         }
       ],
@@ -506,7 +506,7 @@
             "last_commit": "2024-12-12T12:01:58Z",
             "owner": "MuShibo",
             "repo": "Micro-Wheeled_leg-Robot",
-            "stars": 3438
+            "stars": 3441
           }
         },
         {
@@ -520,7 +520,7 @@
             "last_commit": "2026-08-03T17:19:40Z",
             "owner": "TetherIA",
             "repo": "aero-hand-open",
-            "stars": 894
+            "stars": 896
           }
         },
         {
@@ -534,7 +534,7 @@
             "last_commit": "2025-05-24T02:12:38Z",
             "owner": "zeroth-robotics",
             "repo": "zeroth-bot",
-            "stars": 818
+            "stars": 819
           }
         },
         {
@@ -548,7 +548,7 @@
             "last_commit": "2026-07-31T07:04:15Z",
             "owner": "hshi74",
             "repo": "toddlerbot",
-            "stars": 734
+            "stars": 738
           }
         },
         {
@@ -593,10 +593,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T06:31:02Z",
+            "last_commit": "2026-08-17T19:49:19Z",
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 29752
+            "stars": 29759
           }
         },
         {
@@ -610,7 +610,7 @@
             "last_commit": "2026-08-04T16:38:18Z",
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3230
+            "stars": 3234
           }
         },
         {
@@ -624,7 +624,7 @@
             "last_commit": "2026-08-09T05:55:27Z",
             "owner": "google-deepmind",
             "repo": "mujoco_playground",
-            "stars": 2153
+            "stars": 2155
           }
         },
         {
@@ -652,7 +652,7 @@
             "last_commit": "2026-08-07T17:44:23Z",
             "owner": "robocasa",
             "repo": "robocasa",
-            "stars": 1647
+            "stars": 1651
           }
         },
         {
@@ -666,7 +666,7 @@
             "last_commit": "2025-09-04T06:38:50Z",
             "owner": "InternRobotics",
             "repo": "InternUtopia",
-            "stars": 1282
+            "stars": 1283
           }
         },
         {
@@ -714,7 +714,7 @@
             "last_commit": "2025-11-27T16:14:14Z",
             "owner": "xbpeng",
             "repo": "DeepMimic",
-            "stars": 3077
+            "stars": 3081
           }
         },
         {
@@ -728,7 +728,7 @@
             "last_commit": "2025-11-27T16:14:14Z",
             "owner": "xbpeng",
             "repo": "DeepMimic",
-            "stars": 3077
+            "stars": 3081
           }
         },
         {
@@ -770,7 +770,7 @@
             "last_commit": "2026-04-21T17:13:17Z",
             "owner": "Sirui-Xu",
             "repo": "InterMimic",
-            "stars": 526
+            "stars": 527
           }
         },
         {
@@ -826,7 +826,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T04:00:55.498Z",
+    "last_updated": "2026-08-18T03:56:41.317Z",
     "original_repository": "YanjieZe/awesome-humanoid-robot-learning",
     "original_repository_sha": "745ef038c841d97b3a3b22ae650391e63da4856a",
     "enhanced_repository": "enhansome/enhansome-humanoid-robot-learning",
