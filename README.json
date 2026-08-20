@@ -15,7 +15,7 @@
             "last_commit": "2025-02-21T06:58:48Z",
             "owner": "LeCAR-Lab",
             "repo": "human2humanoid",
-            "stars": 1057
+            "stars": 1058
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-02-21T06:58:48Z",
             "owner": "LeCAR-Lab",
             "repo": "human2humanoid",
-            "stars": 1057
+            "stars": 1058
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-07-01T22:28:54Z",
             "owner": "MarkFzp",
             "repo": "humanplus",
-            "stars": 849
+            "stars": 850
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2024-09-27T02:38:47Z",
             "owner": "OpenTeleVision",
             "repo": "TeleVision",
-            "stars": 1297
+            "stars": 1298
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2024-09-18T13:18:22Z",
             "owner": "Dingry",
             "repo": "BunnyVisionPro",
-            "stars": 357
+            "stars": 358
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2024-09-27T02:38:47Z",
             "owner": "OpenTeleVision",
             "repo": "TeleVision",
-            "stars": 1297
+            "stars": 1298
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2025-02-21T06:58:48Z",
             "owner": "LeCAR-Lab",
             "repo": "human2humanoid",
-            "stars": 1057
+            "stars": 1058
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2024-07-01T22:28:54Z",
             "owner": "MarkFzp",
             "repo": "humanplus",
-            "stars": 849
+            "stars": 850
           }
         },
         {
@@ -312,7 +312,7 @@
             "last_commit": "2026-07-22T19:18:18Z",
             "owner": "GalaxyGeneralRobotics",
             "repo": "Humanoid-GPT",
-            "stars": 426
+            "stars": 428
           }
         },
         {
@@ -327,7 +327,7 @@
             "last_commit": "2024-09-18T13:18:22Z",
             "owner": "Dingry",
             "repo": "BunnyVisionPro",
-            "stars": 357
+            "stars": 358
           }
         },
         {
@@ -489,7 +489,7 @@
             "last_commit": "2024-07-24T08:41:52Z",
             "owner": "UZ-SLAMLab",
             "repo": "ORB_SLAM3",
-            "stars": 8965
+            "stars": 8966
           }
         },
         {
@@ -504,7 +504,7 @@
             "last_commit": "2024-05-23T09:17:03Z",
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Fusion",
-            "stars": 4674
+            "stars": 4676
           }
         },
         {
@@ -540,7 +540,7 @@
             "last_commit": "2024-12-12T12:01:58Z",
             "owner": "MuShibo",
             "repo": "Micro-Wheeled_leg-Robot",
-            "stars": 3444
+            "stars": 3448
           }
         },
         {
@@ -555,7 +555,7 @@
             "last_commit": "2026-08-03T17:19:40Z",
             "owner": "TetherIA",
             "repo": "aero-hand-open",
-            "stars": 898
+            "stars": 900
           }
         },
         {
@@ -585,7 +585,7 @@
             "last_commit": "2026-07-31T07:04:15Z",
             "owner": "hshi74",
             "repo": "toddlerbot",
-            "stars": 739
+            "stars": 740
           }
         },
         {
@@ -633,10 +633,10 @@
             "archived": false,
             "id": 712225112,
             "language": "Python",
-            "last_commit": "2026-08-19T08:36:59Z",
+            "last_commit": "2026-08-19T23:20:00Z",
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 29772
+            "stars": 29778
           }
         },
         {
@@ -651,7 +651,7 @@
             "last_commit": "2026-08-04T16:38:18Z",
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3240
+            "stars": 3241
           }
         },
         {
@@ -681,7 +681,7 @@
             "last_commit": "2025-01-26T08:11:29Z",
             "owner": "roboterax",
             "repo": "humanoid-gym",
-            "stars": 2070
+            "stars": 2071
           }
         },
         {
@@ -807,7 +807,7 @@
             "last_commit": "2025-12-07T09:02:20Z",
             "owner": "nv-tlabs",
             "repo": "ASE",
-            "stars": 1115
+            "stars": 1116
           }
         },
         {
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:32:13.769Z",
+    "last_updated": "2026-08-20T03:57:42.308Z",
     "original_repository": "YanjieZe/awesome-humanoid-robot-learning",
     "original_repository_id": 881022384,
     "original_repository_sha": "745ef038c841d97b3a3b22ae650391e63da4856a",
