@@ -479,7 +479,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "github",
+          "title": "UZ-SLAMLab/ORB_SLAM3",
           "description": ", ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM",
           "children": [],
           "repo_info": {
@@ -489,12 +489,12 @@
             "last_commit": "2024-07-24T08:41:52Z",
             "owner": "UZ-SLAMLab",
             "repo": "ORB_SLAM3",
-            "stars": 8980
+            "stars": 8981
           }
         },
         {
           "node_type": "item",
-          "title": "github",
+          "title": "HKUST-Aerial-Robotics/VINS-Fusion",
           "description": ", VINS-Fusion: An optimization-based multi-sensor state estimator",
           "children": [],
           "repo_info": {
@@ -509,7 +509,7 @@
         },
         {
           "node_type": "item",
-          "title": "github",
+          "title": "MIT-SPARK/Kimera",
           "description": ", Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping",
           "children": [],
           "repo_info": {
@@ -530,7 +530,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "github",
+          "title": "MuShibo/Micro-Wheeled_leg-Robot",
           "description": ", Micro-Wheeled_leg-Robot",
           "children": [],
           "repo_info": {
@@ -545,7 +545,7 @@
         },
         {
           "node_type": "item",
-          "title": "github",
+          "title": "TetherIA/aero-hand-open",
           "description": ", Aero Hand Open",
           "children": [],
           "repo_info": {
@@ -585,7 +585,7 @@
             "last_commit": "2026-07-31T07:04:15Z",
             "owner": "hshi74",
             "repo": "toddlerbot",
-            "stars": 744
+            "stars": 745
           }
         },
         {
@@ -636,7 +636,7 @@
             "last_commit": "2026-08-24T22:16:22Z",
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 29793
+            "stars": 29794
           }
         },
         {
@@ -696,7 +696,7 @@
             "last_commit": "2026-08-21T20:45:34Z",
             "owner": "robocasa",
             "repo": "robocasa",
-            "stars": 1668
+            "stars": 1670
           }
         },
         {
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:58:13.235Z",
+    "last_updated": "2026-08-25T05:54:28.369Z",
     "original_repository": "YanjieZe/awesome-humanoid-robot-learning",
     "original_repository_id": 881022384,
     "original_repository_sha": "745ef038c841d97b3a3b22ae650391e63da4856a",
