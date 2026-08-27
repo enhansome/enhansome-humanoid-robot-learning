@@ -505,11 +505,11 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 ## Simulation Benchmark
 
-* arXiv 2024.12, **Genesis**: A Generative and Universal Physics Engine for Robotics and Beyond, [code](https://github.com/Genesis-Embodied-AI/Genesis) ⭐ 29,814 | 🐛 134 | 🌐 Python | 📅 2026-08-26 / [website](https://genesis-embodied-ai.github.io/)
+* arXiv 2024.12, **Genesis**: A Generative and Universal Physics Engine for Robotics and Beyond, [code](https://github.com/Genesis-Embodied-AI/Genesis) ⭐ 29,815 | 🐛 134 | 🌐 Python | 📅 2026-08-26 / [website](https://genesis-embodied-ai.github.io/)
 * 🌟 [arXiv 2024.10](https://arxiv.org/abs/2410.00425), ManiSkill3: GPU Parallelized Robotics Simulation and Rendering for Generalizable Embodied AI, [website](https://www.maniskill.ai/home) / [code](https://github.com/haosulab/ManiSkill) ⭐ 3,266 | 🐛 134 | 🌐 Python | 📅 2026-08-04
 * 🌟 2025.01, MuJoCo Playground, [github](https://github.com/google-deepmind/mujoco_playground) ⭐ 2,168 | 🐛 105 | 🌐 Python | 📅 2026-08-26 / [website](https://playground.mujoco.org/)
 * 🌟 [arXiv 2024.04](https://arxiv.org/abs/2404.05695), Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer, [website](https://sites.google.com/view/humanoid-gym/) / [code](https://github.com/roboterax/humanoid-gym) ⭐ 2,077 | 🐛 24 | 🌐 Python | 📅 2025-01-26
-* 🌟 [arXiv 2024.06](https://arxiv.org/abs/2406.02523), RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots, [website](https://robocasa.ai/) / [code](https://github.com/robocasa/robocasa) ⭐ 1,679 | 🐛 56 | 🌐 Python | 📅 2026-08-21
+* 🌟 [arXiv 2024.06](https://arxiv.org/abs/2406.02523), RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots, [website](https://robocasa.ai/) / [code](https://github.com/robocasa/robocasa) ⭐ 1,680 | 🐛 56 | 🌐 Python | 📅 2026-08-21
 * 🌟 [arXiv](https://arxiv.org/abs/2407.10943), GRUtopia: Dream General Robots in a City at Scale, [website](https://github.com/OpenRobotLab/GRUtopia) ⭐ 1,286 | 🐛 29 | 🌐 Python | 📅 2025-09-04
 * 🌟 [arXiv 2024.03](https://arxiv.org/abs/2403.10506), HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation, [website](https://humanoid-bench.github.io/) / [code](https://github.com/carlosferrazza/humanoid-bench) ⭐ 786 | 🐛 26 | 🌐 Python | 📅 2025-09-18
 * 🌟 [arXiv 2024.07](https://arxiv.org/abs/2407.07788), BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark, [website](https://chernyadev.github.io/bigym/) / [code](https://github.com/chernyadev/bigym) ⭐ 0 | 🐛 0 | 📅 2026-05-27

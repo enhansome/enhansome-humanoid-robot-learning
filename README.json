@@ -636,7 +636,7 @@
             "last_commit": "2026-08-26T16:28:42Z",
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 29814
+            "stars": 29815
           }
         },
         {
@@ -696,7 +696,7 @@
             "last_commit": "2026-08-21T20:45:34Z",
             "owner": "robocasa",
             "repo": "robocasa",
-            "stars": 1679
+            "stars": 1680
           }
         },
         {
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:44:39.361Z",
+    "last_updated": "2026-08-27T14:10:01.650Z",
     "original_repository_info": {
       "archived": false,
       "id": 881022384,
@@ -889,7 +889,7 @@
       "last_commit": "2026-07-08T13:48:28Z",
       "owner": "YanjieZe",
       "repo": "awesome-humanoid-robot-learning",
-      "stars": 2724
+      "stars": 2726
     },
     "original_repository_sha": "745ef038c841d97b3a3b22ae650391e63da4856a",
     "enhanced_repository": "enhansome/enhansome-humanoid-robot-learning",
