@@ -16,7 +16,8 @@
             "owner": "LeCAR-Lab",
             "repo": "human2humanoid",
             "stars": 1060
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "LeCAR-Lab",
             "repo": "human2humanoid",
             "stars": 1060
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "MarkFzp",
             "repo": "humanplus",
             "stars": 850
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2025-09-01T01:37:37Z",
             "owner": "InternRobotics",
             "repo": "OpenHomie",
-            "stars": 606
-          }
+            "stars": 607
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "chengxuxin",
             "repo": "expressive-humanoid",
             "stars": 498
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "tianshuwu",
             "repo": "SUGAR",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         }
       ],
       "title": "Loco-Manipulation and Whole-Body-Control"
@@ -112,7 +118,8 @@
             "owner": "OpenTeleVision",
             "repo": "TeleVision",
             "stars": 1302
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "YanjieZe",
             "repo": "Improved-3D-Diffusion-Policy",
             "stars": 552
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -141,8 +149,9 @@
             "last_commit": "2024-10-10T20:07:00Z",
             "owner": "j96w",
             "repo": "DexCap",
-            "stars": 387
-          }
+            "stars": 388
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "Dingry",
             "repo": "BunnyVisionPro",
             "stars": 358
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -171,8 +181,9 @@
             "last_commit": "2024-11-10T23:38:16Z",
             "owner": "SimarKareer",
             "repo": "EgoMimic",
-            "stars": 217
-          }
+            "stars": 218
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "ToruOwO",
             "repo": "hato",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "ACETeleop",
             "repo": "ACETeleop",
             "stars": 136
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "BeingBeyond",
             "repo": "Being-H0",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         }
       ],
       "title": "Manipulation"
@@ -238,7 +252,8 @@
             "owner": "OpenTeleVision",
             "repo": "TeleVision",
             "stars": 1302
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "LeCAR-Lab",
             "repo": "human2humanoid",
             "stars": 1060
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "MarkFzp",
             "repo": "humanplus",
             "stars": 850
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -282,8 +299,9 @@
             "last_commit": "2025-09-01T01:37:37Z",
             "owner": "InternRobotics",
             "repo": "OpenHomie",
-            "stars": 606
-          }
+            "stars": 607
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "YanjieZe",
             "repo": "Improved-3D-Diffusion-Policy",
             "stars": 552
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -312,8 +331,9 @@
             "last_commit": "2026-08-20T13:07:47Z",
             "owner": "GalaxyGeneralRobotics",
             "repo": "Humanoid-GPT",
-            "stars": 453
-          }
+            "stars": 456
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "Dingry",
             "repo": "BunnyVisionPro",
             "stars": 358
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "eth-siplab",
             "repo": "AvatarPoser",
             "stars": 332
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "ACETeleop",
             "repo": "ACETeleop",
             "stars": 136
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "UT-Austin-RPL",
             "repo": "TRILL",
             "stars": 127
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "eth-siplab",
             "repo": "EgoPoser",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "Smilels",
             "repo": "multimodal-translation-teleop",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -418,7 +444,8 @@
             "owner": "ami-iit",
             "repo": "paper_dafarra_2024_science-robotics_icub3-avatar-system",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         }
       ],
       "title": "Teleoperation"
@@ -439,7 +466,8 @@
             "owner": "zixuan417",
             "repo": "smooth-humanoid-locomotion",
             "stars": 238
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -454,7 +482,8 @@
             "owner": "BTFrontier",
             "repo": "polygon_mapping",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -469,7 +498,8 @@
             "owner": "bigai-ai",
             "repo": "ECO-humanoid",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         }
       ],
       "title": "Locomotion"
@@ -489,8 +519,9 @@
             "last_commit": "2024-07-24T08:41:52Z",
             "owner": "UZ-SLAMLab",
             "repo": "ORB_SLAM3",
-            "stars": 8987
-          }
+            "stars": 8991
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -504,8 +535,9 @@
             "last_commit": "2024-05-23T09:17:03Z",
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Fusion",
-            "stars": 4687
-          }
+            "stars": 4689
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -520,7 +552,8 @@
             "owner": "MIT-SPARK",
             "repo": "Kimera",
             "stars": 2119
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         }
       ],
       "title": "State Estimation"
@@ -540,8 +573,9 @@
             "last_commit": "2024-12-12T12:01:58Z",
             "owner": "MuShibo",
             "repo": "Micro-Wheeled_leg-Robot",
-            "stars": 3484
-          }
+            "stars": 3489
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -556,7 +590,8 @@
             "owner": "TetherIA",
             "repo": "aero-hand-open",
             "stars": 918
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -571,7 +606,8 @@
             "owner": "zeroth-robotics",
             "repo": "zeroth-bot",
             "stars": 819
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -585,8 +621,9 @@
             "last_commit": "2026-07-31T07:04:15Z",
             "owner": "hshi74",
             "repo": "toddlerbot",
-            "stars": 749
-          }
+            "stars": 751
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -601,7 +638,8 @@
             "owner": "HybridRobotics",
             "repo": "isaac_berkeley_humanoid",
             "stars": 290
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -616,7 +654,8 @@
             "owner": "generalroboticslab",
             "repo": "dukeHumanoidHardwareControl",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         }
       ],
       "title": "Hardware Design"
@@ -633,11 +672,12 @@
             "archived": false,
             "id": 712225112,
             "language": "Python",
-            "last_commit": "2026-08-26T16:28:42Z",
+            "last_commit": "2026-08-28T11:53:22Z",
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 29815
-          }
+            "stars": 29818
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -651,8 +691,9 @@
             "last_commit": "2026-08-04T16:38:18Z",
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3266
-          }
+            "stars": 3267
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -667,7 +708,8 @@
             "owner": "google-deepmind",
             "repo": "mujoco_playground",
             "stars": 2168
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -681,8 +723,9 @@
             "last_commit": "2025-01-26T08:11:29Z",
             "owner": "roboterax",
             "repo": "humanoid-gym",
-            "stars": 2077
-          }
+            "stars": 2076
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -696,8 +739,9 @@
             "last_commit": "2026-08-21T20:45:34Z",
             "owner": "robocasa",
             "repo": "robocasa",
-            "stars": 1680
-          }
+            "stars": 1684
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -712,7 +756,8 @@
             "owner": "InternRobotics",
             "repo": "InternUtopia",
             "stars": 1286
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -727,7 +772,8 @@
             "owner": "carlosferrazza",
             "repo": "humanoid-bench",
             "stars": 786
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -742,7 +788,8 @@
             "owner": "chernyadev",
             "repo": "bigym",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         }
       ],
       "title": "Simulation Benchmark"
@@ -762,8 +809,9 @@
             "last_commit": "2025-11-27T16:14:14Z",
             "owner": "xbpeng",
             "repo": "DeepMimic",
-            "stars": 3085
-          }
+            "stars": 3086
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -777,8 +825,9 @@
             "last_commit": "2025-11-27T16:14:14Z",
             "owner": "xbpeng",
             "repo": "DeepMimic",
-            "stars": 3085
-          }
+            "stars": 3086
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -792,8 +841,9 @@
             "last_commit": "2025-08-21T18:34:47Z",
             "owner": "ZhengyiLuo",
             "repo": "PHC",
-            "stars": 1280
-          }
+            "stars": 1281
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -807,8 +857,9 @@
             "last_commit": "2025-12-07T09:02:20Z",
             "owner": "nv-tlabs",
             "repo": "ASE",
-            "stars": 1117
-          }
+            "stars": 1118
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -823,7 +874,8 @@
             "owner": "Sirui-Xu",
             "repo": "InterMimic",
             "stars": 527
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -838,7 +890,8 @@
             "owner": "mshoe",
             "repo": "PARC",
             "stars": 347
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         }
       ],
       "title": "Physics-Based Character Animation"
@@ -859,7 +912,8 @@
             "owner": "eth-siplab",
             "repo": "AvatarPoser",
             "stars": 332
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
@@ -874,14 +928,15 @@
             "owner": "eth-siplab",
             "repo": "EgoPoser",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T15:19:59.689Z"
         }
       ],
       "title": "Human Motion Analysis and Synthesis"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:10:01.650Z",
+    "last_updated": "2026-08-28T15:19:59.689Z",
     "original_repository_info": {
       "archived": false,
       "id": 881022384,
