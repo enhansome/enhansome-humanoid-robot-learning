@@ -445,7 +445,7 @@
             "open_issues": 3,
             "owner": "GalaxyGeneralRobotics",
             "repo": "Humanoid-GPT",
-            "stars": 465,
+            "stars": 466,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -569,7 +569,7 @@
             "open_issues": 0,
             "owner": "eth-siplab",
             "repo": "EgoPoser",
-            "stars": 54,
+            "stars": 55,
             "topics": [
               "3d-vision",
               "augmented-reality",
@@ -718,7 +718,7 @@
             "open_issues": 571,
             "owner": "UZ-SLAMLab",
             "repo": "ORB_SLAM3",
-            "stars": 9058,
+            "stars": 9060,
             "topics": [
               "slam-algorithms"
             ]
@@ -741,7 +741,7 @@
             "open_issues": 212,
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Fusion",
-            "stars": 4704,
+            "stars": 4707,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -796,28 +796,28 @@
             "open_issues": 11,
             "owner": "MuShibo",
             "repo": "Micro-Wheeled_leg-Robot",
-            "stars": 3566,
+            "stars": 3570,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
-          "title": "TetherIA/aero-hand-open",
+          "title": "Chestnut-Robotics/aero-hand-open",
           "description": ", Aero Hand Open",
           "children": [],
           "repo_info": {
             "archived": false,
             "description": "https://shop.tetheria.ai/",
-            "homepage": "https://tetheria.github.io/aero-hand-open/",
+            "homepage": "https://chestnut-robotics.github.io/aero-hand-open/",
             "id": 1071825013,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T00:48:51Z",
-            "open_issues": 3,
-            "owner": "TetherIA",
+            "last_commit": "2026-09-12T02:12:11Z",
+            "open_issues": 2,
+            "owner": "Chestnut-Robotics",
             "repo": "aero-hand-open",
-            "stars": 948,
+            "stars": 949,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -929,11 +929,11 @@
             "id": 712225112,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T07:23:07Z",
-            "open_issues": 136,
+            "last_commit": "2026-09-12T04:47:38Z",
+            "open_issues": 128,
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 29931,
+            "stars": 29933,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -979,10 +979,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-09T08:48:38Z",
-            "open_issues": 106,
+            "open_issues": 110,
             "owner": "google-deepmind",
             "repo": "mujoco_playground",
-            "stars": 2194,
+            "stars": 2196,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -1032,7 +1032,7 @@
             "open_issues": 56,
             "owner": "robocasa",
             "repo": "robocasa",
-            "stars": 1718,
+            "stars": 1720,
             "topics": [
               "humanoid-robot",
               "physics-simulation",
@@ -1127,7 +1127,7 @@
             "open_issues": 104,
             "owner": "xbpeng",
             "repo": "DeepMimic",
-            "stars": 3095,
+            "stars": 3098,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -1148,7 +1148,7 @@
             "open_issues": 104,
             "owner": "xbpeng",
             "repo": "DeepMimic",
-            "stars": 3095,
+            "stars": 3098,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -1196,7 +1196,7 @@
             "open_issues": 43,
             "owner": "nv-tlabs",
             "repo": "ASE",
-            "stars": 1122,
+            "stars": 1123,
             "topics": [
               "animation",
               "physics-simulation",
@@ -1311,7 +1311,7 @@
             "open_issues": 0,
             "owner": "eth-siplab",
             "repo": "EgoPoser",
-            "stars": 54,
+            "stars": 55,
             "topics": [
               "3d-vision",
               "augmented-reality",
@@ -1332,7 +1332,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T08:01:28.930Z",
+    "last_updated": "2026-09-12T07:53:55.714Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Paper List for Humanoid Robot Learning.",
@@ -1344,7 +1344,7 @@
       "open_issues": 1,
       "owner": "YanjieZe",
       "repo": "awesome-humanoid-robot-learning",
-      "stars": 2752,
+      "stars": 2753,
       "topics": []
     },
     "original_repository_sha": "745ef038c841d97b3a3b22ae650391e63da4856a",
