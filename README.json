@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2024.06",
+          "title": "🌟arXiv 2024.06",
           "description": ", OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning, website / code",
           "children": [],
           "repo_info": {
@@ -26,7 +26,7 @@
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2024.03",
+          "title": "🌟arXiv 2024.03",
           "description": ", Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation, website / code",
           "children": [],
           "repo_info": {
@@ -47,7 +47,7 @@
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2024.06",
+          "title": "🌟arXiv 2024.06",
           "description": ", HumanPlus: Humanoid Shadowing and Imitation from Humans, website / code",
           "children": [],
           "repo_info": {
@@ -73,7 +73,7 @@
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2025.02",
+          "title": "🌟arXiv 2025.02",
           "description": ", HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit, website / github",
           "children": [],
           "repo_info": {
@@ -84,7 +84,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-09-08T20:28:31Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "InternRobotics",
             "repo": "OpenHomie",
             "stars": 620,
@@ -94,7 +94,7 @@
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2024.02",
+          "title": "🌟arXiv 2024.02",
           "description": ", Expressive Whole-Body Control for Humanoid Robots, website / code",
           "children": [],
           "repo_info": {
@@ -120,7 +120,7 @@
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2026.05",
+          "title": "🌟arXiv 2026.05",
           "description": ", SUGAR: A Scalable Human-Video-Driven Generalizable Humanoid Loco-Manipulation Learning Framework, website / code",
           "children": [],
           "repo_info": {
@@ -147,7 +147,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2024.07",
+          "title": "🌟arXiv 2024.07",
           "description": ", Open-TeleVision: Teleoperation with Immersive Active Visual Feedback, website / code",
           "children": [],
           "repo_info": {
@@ -168,7 +168,7 @@
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2024.10",
+          "title": "🌟arXiv 2024.10",
           "description": ", Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies, website / code",
           "children": [],
           "repo_info": {
@@ -189,7 +189,7 @@
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2024.03",
+          "title": "🌟arXiv 2024.03",
           "description": ", DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation, website / code",
           "children": [],
           "repo_info": {
@@ -210,7 +210,7 @@
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2024.07",
+          "title": "🌟arXiv 2024.07",
           "description": ", Bunny-VisionPro: Real-Time Bimanual Dexterous Teleoperation for Imitation Learning, website / code",
           "children": [],
           "repo_info": {
@@ -231,7 +231,7 @@
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2024.10",
+          "title": "🌟arXiv 2024.10",
           "description": ", EgoMimic: Scaling Imitation Learning via Egocentric Video, website / code",
           "children": [],
           "repo_info": {
@@ -245,14 +245,14 @@
             "open_issues": 2,
             "owner": "SimarKareer",
             "repo": "EgoMimic",
-            "stars": 228,
+            "stars": 230,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2024.04",
+          "title": "🌟arXiv 2024.04",
           "description": ", Learning Visuotactile Skills with Two Multifingered Hands, website / code",
           "children": [],
           "repo_info": {
@@ -273,7 +273,7 @@
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2024.08",
+          "title": "🌟arXiv 2024.08",
           "description": ", ACE: A Cross-Platform Visual-Exoskeletons System for Low-Cost Dexterous Teleoperation, website / code",
           "children": [],
           "repo_info": {
@@ -321,7 +321,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2024.07",
+          "title": "🌟arXiv 2024.07",
           "description": ", Open-TeleVision: Teleoperation with Immersive Active Visual Feedback, website / code",
           "children": [],
           "repo_info": {
@@ -342,7 +342,7 @@
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2024.06",
+          "title": "🌟arXiv 2024.06",
           "description": ", OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning, website / code",
           "children": [],
           "repo_info": {
@@ -363,7 +363,7 @@
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2024.06",
+          "title": "🌟arXiv 2024.06",
           "description": ", HumanPlus: Humanoid Shadowing and Imitation from Humans, website / code",
           "children": [],
           "repo_info": {
@@ -389,7 +389,7 @@
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2025.02",
+          "title": "🌟arXiv 2025.02",
           "description": ", HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit, code",
           "children": [],
           "repo_info": {
@@ -400,7 +400,7 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-09-08T20:28:31Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "InternRobotics",
             "repo": "OpenHomie",
             "stars": 620,
@@ -410,7 +410,7 @@
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2024.10",
+          "title": "🌟arXiv 2024.10",
           "description": ", Generalizable Humanoid Manipulation with 3D Diffusion Policies, website / code",
           "children": [],
           "repo_info": {
@@ -431,7 +431,7 @@
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2026.06",
+          "title": "🌟arXiv 2026.06",
           "description": ", Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking, code",
           "children": [],
           "repo_info": {
@@ -445,14 +445,14 @@
             "open_issues": 3,
             "owner": "GalaxyGeneralRobotics",
             "repo": "Humanoid-GPT",
-            "stars": 477,
+            "stars": 479,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2024.07",
+          "title": "🌟arXiv 2024.07",
           "description": ", Bunny-VisionPro: Real-Time Bimanual Dexterous Teleoperation for Imitation Learning, website / code",
           "children": [],
           "repo_info": {
@@ -473,7 +473,7 @@
         },
         {
           "node_type": "item",
-          "title": "🌟 ECCV 2022",
+          "title": "🌟ECCV 2022",
           "description": ", AvatarPoser: Articulated Full-Body Pose Tracking from Sparse Motion Sensing, website / code",
           "children": [],
           "repo_info": {
@@ -506,7 +506,7 @@
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2024.08",
+          "title": "🌟arXiv 2024.08",
           "description": ", ACE: A Cross-Platform Visual-Exoskeletons System for Low-Cost Dexterous Teleoperation, website / code",
           "children": [],
           "repo_info": {
@@ -527,7 +527,7 @@
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2023.09",
+          "title": "🌟arXiv 2023.09",
           "description": ", Deep Imitation Learning for Humanoid Loco-manipulation through Human Teleoperation, website / code",
           "children": [],
           "repo_info": {
@@ -555,7 +555,7 @@
         },
         {
           "node_type": "item",
-          "title": "🌟 ECCV 2024",
+          "title": "🌟ECCV 2024",
           "description": ", EgoPoser: Robust Real-Time Egocentric Pose Estimation from Sparse and Intermittent Observations Everywhere, website / code",
           "children": [],
           "repo_info": {
@@ -587,7 +587,7 @@
         },
         {
           "node_type": "item",
-          "title": "🌟 IROS 2020",
+          "title": "🌟IROS 2020",
           "description": ", A Mobile Robot Hand-Arm Teleoperation System by Vision and IMU, website / code",
           "children": [],
           "repo_info": {
@@ -635,7 +635,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2024.10",
+          "title": "🌟arXiv 2024.10",
           "description": ", Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies, website / code",
           "children": [],
           "repo_info": {
@@ -656,7 +656,7 @@
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2024.11",
+          "title": "🌟arXiv 2024.11",
           "description": ", Real-Time Polygonal Semantic Mapping for Humanoid Robot Stair Climbing, code",
           "children": [],
           "repo_info": {
@@ -677,7 +677,7 @@
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2026.02",
+          "title": "🌟arXiv 2026.02",
           "description": ", ECO: Energy-Constrained Optimization with Reinforcement Learning for Humanoid Walking, website / code",
           "children": [],
           "repo_info": {
@@ -718,7 +718,7 @@
             "open_issues": 573,
             "owner": "UZ-SLAMLab",
             "repo": "ORB_SLAM3",
-            "stars": 9130,
+            "stars": 9134,
             "topics": [
               "slam-algorithms"
             ]
@@ -741,7 +741,7 @@
             "open_issues": 212,
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Fusion",
-            "stars": 4738,
+            "stars": 4740,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -796,7 +796,7 @@
             "open_issues": 11,
             "owner": "MuShibo",
             "repo": "Micro-Wheeled_leg-Robot",
-            "stars": 3640,
+            "stars": 3644,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -817,7 +817,7 @@
             "open_issues": 4,
             "owner": "Chestnut-Robotics",
             "repo": "aero-hand-open",
-            "stars": 982,
+            "stars": 985,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -850,7 +850,7 @@
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2025.02",
+          "title": "🌟arXiv 2025.02",
           "description": ", ToddlerBot: Open-Source ML-Compatible Humanoid Platform for Loco-Manipulation, website / github",
           "children": [],
           "repo_info": {
@@ -871,7 +871,7 @@
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2024.07",
+          "title": "🌟arXiv 2024.07",
           "description": ", Berkeley Humanoid: A Research Platform for Learning-based Control, website / code",
           "children": [],
           "repo_info": {
@@ -892,7 +892,7 @@
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2024.09",
+          "title": "🌟arXiv 2024.09",
           "description": ", The Duke Humanoid: Design and Control For Energy Efficient Bipedal Locomotion Using Passive Dynamics, website / code",
           "children": [],
           "repo_info": {
@@ -929,18 +929,18 @@
             "id": 712225112,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T14:00:02Z",
-            "open_issues": 146,
+            "last_commit": "2026-10-08T22:12:16Z",
+            "open_issues": 153,
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 30030,
+            "stars": 30042,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2024.10",
+          "title": "🌟arXiv 2024.10",
           "description": ", ManiSkill3: GPU Parallelized Robotics Simulation and Rendering for Generalizable Embodied AI, website / code",
           "children": [],
           "repo_info": {
@@ -951,10 +951,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-04T16:38:18Z",
-            "open_issues": 141,
+            "open_issues": 142,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3384,
+            "stars": 3386,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -979,7 +979,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-07T22:49:05Z",
-            "open_issues": 110,
+            "open_issues": 111,
             "owner": "google-deepmind",
             "repo": "mujoco_playground",
             "stars": 2244,
@@ -989,7 +989,7 @@
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2024.04",
+          "title": "🌟arXiv 2024.04",
           "description": ", Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer, website / code",
           "children": [],
           "repo_info": {
@@ -1018,7 +1018,7 @@
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2024.06",
+          "title": "🌟arXiv 2024.06",
           "description": ", RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots, website / code",
           "children": [],
           "repo_info": {
@@ -1032,7 +1032,7 @@
             "open_issues": 64,
             "owner": "robocasa",
             "repo": "robocasa",
-            "stars": 1783,
+            "stars": 1789,
             "topics": [
               "humanoid-robot",
               "physics-simulation",
@@ -1044,7 +1044,7 @@
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv",
+          "title": "🌟arXiv",
           "description": ", GRUtopia: Dream General Robots in a City at Scale, website",
           "children": [],
           "repo_info": {
@@ -1065,7 +1065,7 @@
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2024.03",
+          "title": "🌟arXiv 2024.03",
           "description": ", HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation, website / code",
           "children": [],
           "repo_info": {
@@ -1086,7 +1086,7 @@
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2024.07",
+          "title": "🌟arXiv 2024.07",
           "description": ", BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark, website / code",
           "children": [],
           "repo_info": {
@@ -1113,7 +1113,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2021.08",
+          "title": "🌟arXiv 2021.08",
           "description": ", AMP: Adversarial Motion Priors for Stylized Physics-Based Character Control, website / code",
           "children": [],
           "repo_info": {
@@ -1127,14 +1127,14 @@
             "open_issues": 104,
             "owner": "xbpeng",
             "repo": "DeepMimic",
-            "stars": 3110,
+            "stars": 3109,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2018.08",
+          "title": "🌟arXiv 2018.08",
           "description": ", DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills, website / code",
           "children": [],
           "repo_info": {
@@ -1148,14 +1148,14 @@
             "open_issues": 104,
             "owner": "xbpeng",
             "repo": "DeepMimic",
-            "stars": 3110,
+            "stars": 3109,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2023.05",
+          "title": "🌟arXiv 2023.05",
           "description": ", Perpetual Humanoid Control for Real-time Simulated Avatars, code",
           "children": [],
           "repo_info": {
@@ -1182,7 +1182,7 @@
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2022.08",
+          "title": "🌟arXiv 2022.08",
           "description": ", ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters, website / code",
           "children": [],
           "repo_info": {
@@ -1207,7 +1207,7 @@
         },
         {
           "node_type": "item",
-          "title": "🌟 arXiv 2025.02",
+          "title": "🌟arXiv 2025.02",
           "description": ", InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions, website, code",
           "children": [],
           "repo_info": {
@@ -1221,7 +1221,7 @@
             "open_issues": 1,
             "owner": "Sirui-Xu",
             "repo": "InterMimic",
-            "stars": 537,
+            "stars": 538,
             "topics": [
               "character-animation",
               "human-motion-generation",
@@ -1264,7 +1264,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "🌟 ECCV 2022",
+          "title": "🌟ECCV 2022",
           "description": ", AvatarPoser: Articulated Full-Body Pose Tracking from Sparse Motion Sensing, website / code",
           "children": [],
           "repo_info": {
@@ -1297,7 +1297,7 @@
         },
         {
           "node_type": "item",
-          "title": "🌟 ECCV 2024",
+          "title": "🌟ECCV 2024",
           "description": ", EgoPoser: Robust Real-Time Egocentric Pose Estimation from Sparse and Intermittent Observations Everywhere, website / code",
           "children": [],
           "repo_info": {
@@ -1332,7 +1332,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T10:32:14.170Z",
+    "last_updated": "2026-10-09T10:30:28.637Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Paper List for Humanoid Robot Learning.",
@@ -1340,14 +1340,14 @@
       "id": 881022384,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-10-06T17:27:53Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-09T02:28:01Z",
+      "open_issues": 0,
       "owner": "YanjieZe",
       "repo": "awesome-humanoid-robot-learning",
-      "stars": 2798,
+      "stars": 2805,
       "topics": []
     },
-    "original_repository_sha": "cae131fb8cb7c8f104787f2ff892e19555ba18b0",
+    "original_repository_sha": "1fe047df9ee56cc730fbffb3cdb72b6cf177a089",
     "enhanced_repository": "enhansome/enhansome-humanoid-robot-learning",
     "enhanced_repository_description": null,
     "title": "Awesome-Humanoid-Robot-Learning with stars"
