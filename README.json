@@ -445,7 +445,7 @@
             "open_issues": 3,
             "owner": "GalaxyGeneralRobotics",
             "repo": "Humanoid-GPT",
-            "stars": 487,
+            "stars": 488,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -718,7 +718,7 @@
             "open_issues": 573,
             "owner": "UZ-SLAMLab",
             "repo": "ORB_SLAM3",
-            "stars": 9151,
+            "stars": 9152,
             "topics": [
               "slam-algorithms"
             ]
@@ -741,7 +741,7 @@
             "open_issues": 213,
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Fusion",
-            "stars": 4749,
+            "stars": 4750,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -762,7 +762,7 @@
             "open_issues": 2,
             "owner": "MIT-SPARK",
             "repo": "Kimera",
-            "stars": 2137,
+            "stars": 2138,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -796,7 +796,7 @@
             "open_issues": 11,
             "owner": "MuShibo",
             "repo": "Micro-Wheeled_leg-Robot",
-            "stars": 3709,
+            "stars": 3715,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -817,7 +817,7 @@
             "open_issues": 4,
             "owner": "Chestnut-Robotics",
             "repo": "aero-hand-open",
-            "stars": 1001,
+            "stars": 1003,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -885,7 +885,7 @@
             "open_issues": 3,
             "owner": "HybridRobotics",
             "repo": "isaac_berkeley_humanoid",
-            "stars": 295,
+            "stars": 296,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -929,11 +929,11 @@
             "id": 712225112,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T22:20:04Z",
-            "open_issues": 160,
+            "last_commit": "2026-10-17T08:56:07Z",
+            "open_issues": 167,
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 30068,
+            "stars": 30072,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -951,10 +951,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-04T16:38:18Z",
-            "open_issues": 145,
+            "open_issues": 149,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3425,
+            "stars": 3428,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -1032,7 +1032,7 @@
             "open_issues": 64,
             "owner": "robocasa",
             "repo": "robocasa",
-            "stars": 1817,
+            "stars": 1819,
             "topics": [
               "humanoid-robot",
               "physics-simulation",
@@ -1169,7 +1169,7 @@
             "open_issues": 29,
             "owner": "ZhengyiLuo",
             "repo": "PHC",
-            "stars": 1302,
+            "stars": 1303,
             "topics": [
               "avatar",
               "humanoid-control",
@@ -1221,7 +1221,7 @@
             "open_issues": 1,
             "owner": "Sirui-Xu",
             "repo": "InterMimic",
-            "stars": 540,
+            "stars": 541,
             "topics": [
               "character-animation",
               "human-motion-generation",
@@ -1332,7 +1332,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T07:45:13.606Z",
+    "last_updated": "2026-10-18T07:59:27.799Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Paper List for Humanoid Robot Learning.",
@@ -1344,7 +1344,7 @@
       "open_issues": 0,
       "owner": "YanjieZe",
       "repo": "awesome-humanoid-robot-learning",
-      "stars": 2826,
+      "stars": 2827,
       "topics": []
     },
     "original_repository_sha": "35fcd808454d49e8ac0795ce6c71e8103db170af",
