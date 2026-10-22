@@ -31,10 +31,13 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 * 🌟[arXiv 2024.06](https://arxiv.org/abs/2406.08858), OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning, [website](https://omni.human2humanoid.com/) / [code](https://github.com/LeCAR-Lab/human2humanoid) ⭐ 1,078 | 🐛 38 | 🌐 Python | 📅 2025-02-21
 * 🌟[arXiv 2024.03](https://arxiv.org/abs/2403.04436), Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation, [website](https://human2humanoid.com/) / [code](https://github.com/LeCAR-Lab/human2humanoid) ⭐ 1,078 | 🐛 38 | 🌐 Python | 📅 2025-02-21
-* 🌟[arXiv 2024.06](https://arxiv.org/abs/2406.10454), HumanPlus: Humanoid Shadowing and Imitation from Humans, [website](https://humanoid-ai.github.io/) / [code](https://github.com/MarkFzp/humanplus) ⭐ 854 | 🐛 0 | 🌐 Python | 📅 2024-07-01
-* 🌟[arXiv 2025.02](https://arxiv.org/abs/2502.13013), **HOMIE**: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit, [website](https://homietele.github.io/) / [github](https://github.com/OpenRobotLab/OpenHomie) ⭐ 621 | 🐛 3 | 🌐 C++ | 📅 2026-09-08
+* 🌟[arXiv 2024.06](https://arxiv.org/abs/2406.10454), HumanPlus: Humanoid Shadowing and Imitation from Humans, [website](https://humanoid-ai.github.io/) / [code](https://github.com/MarkFzp/humanplus) ⭐ 853 | 🐛 0 | 🌐 Python | 📅 2024-07-01
+* 🌟[arXiv 2025.02](https://arxiv.org/abs/2502.13013), **HOMIE**: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit, [website](https://homietele.github.io/) / [github](https://github.com/OpenRobotLab/OpenHomie) ⭐ 622 | 🐛 3 | 🌐 C++ | 📅 2026-09-08
 * 🌟[arXiv 2024.02](https://arxiv.org/abs/2402.16796), Expressive Whole-Body Control for Humanoid Robots, [website](https://expressive-humanoid.github.io/) / [code](https://github.com/chengxuxin/expressive-humanoid) ⭐ 500 | 🐛 17 | 🌐 Python | 📅 2025-03-30
 * 🌟[arXiv 2026.05](https://arxiv.org/abs/2605.20373), SUGAR: A Scalable Human-Video-Driven Generalizable Humanoid Loco-Manipulation Learning Framework, [website](https://tianshuwu.github.io/sugar-humanoid/) / [code](https://github.com/tianshuwu/SUGAR) ⭐ 129 | 🐛 3 | 🌐 Python | 📅 2026-06-08
+* [arXiv 2026.10](https://arxiv.org/abs/2610.30044), SP-HLM: Sparse-Pose-Driven Motion Generation and Whole-Body Control for Humanoid Loco-Manipulation, [website](https://sp-hlm.github.io/)
+* [arXiv 2026.10](https://arxiv.org/abs/2610.29169), SMR: Learning streaming motion retargeting for humanoids from human semantic, [website](https://logosroboticsgroup.github.io/SMR/)
+* [arXiv 2026.10](https://arxiv.org/abs/2610.28925), One Policy, Many Styles: Where to Aggregate Preferences for Steerable Humanoid Control?
 * [CoRL 2026](https://arxiv.org/abs/2610.28523), VLM-Guided Contact Retargeting and Generative Partner Modeling for Humanoid-Human Interaction, [website](https://yutoshibata07.github.io/REACT/)
 * [CoRL 2026](https://arxiv.org/abs/2610.28480), SuperMimic: Scaling Humanoid Whole-Body Control with One Differentiable World Model, [website](https://supermimic.github.io)
 * [arXiv 2026.10](https://arxiv.org/abs/2610.28470), Fast Motion Retargeting Pipeline for Scalable Humanoid Robot Learning
@@ -597,8 +600,8 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 * 🌟[arXiv 2024.07](https://arxiv.org/abs/2407.01512), Open-TeleVision: Teleoperation with Immersive Active Visual Feedback, [website](https://robot-tv.github.io/) / [code](https://github.com/OpenTeleVision/TeleVision) ⭐ 1,319 | 🐛 41 | 🌐 Python | 📅 2024-09-27
 * 🌟[arXiv 2024.06](https://arxiv.org/abs/2406.08858), OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning, [website](https://omni.human2humanoid.com/) / [code](https://github.com/LeCAR-Lab/human2humanoid) ⭐ 1,078 | 🐛 38 | 🌐 Python | 📅 2025-02-21
-* 🌟[arXiv 2024.06](https://arxiv.org/abs/2406.10454), HumanPlus: Humanoid Shadowing and Imitation from Humans, [website](https://humanoid-ai.github.io/) / [code](https://github.com/MarkFzp/humanplus) ⭐ 854 | 🐛 0 | 🌐 Python | 📅 2024-07-01
-* 🌟[arXiv 2025.02](https://arxiv.org/abs/2502.13013), HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit, [code](https://github.com/OpenRobotLab/OpenHomie) ⭐ 621 | 🐛 3 | 🌐 C++ | 📅 2026-09-08
+* 🌟[arXiv 2024.06](https://arxiv.org/abs/2406.10454), HumanPlus: Humanoid Shadowing and Imitation from Humans, [website](https://humanoid-ai.github.io/) / [code](https://github.com/MarkFzp/humanplus) ⭐ 853 | 🐛 0 | 🌐 Python | 📅 2024-07-01
+* 🌟[arXiv 2025.02](https://arxiv.org/abs/2502.13013), HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit, [code](https://github.com/OpenRobotLab/OpenHomie) ⭐ 622 | 🐛 3 | 🌐 C++ | 📅 2026-09-08
 * 🌟[arXiv 2024.10](https://arxiv.org/abs/2410.10803), Generalizable Humanoid Manipulation with 3D Diffusion Policies, [website](https://humanoid-manipulation.github.io/) / [code](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy) ⭐ 558 | 🐛 4 | 🌐 Python | 📅 2025-06-16
 * 🌟[arXiv 2026.06](https://arxiv.org/abs/2606.03985), Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking, [code](https://github.com/GalaxyGeneralRobotics/Humanoid-GPT) ⭐ 489 | 🐛 3 | 🌐 Python | 📅 2026-08-20
 * 🌟[arXiv 2024.07](https://arxiv.org/abs/2407.03162), Bunny-VisionPro: Real-Time Bimanual Dexterous Teleoperation for Imitation Learning, [website](https://dingry.github.io/projects/bunny_visionpro.html) / [code](https://github.com/Dingry/BunnyVisionPro) ⭐ 357 | 🐛 8 | 🌐 Python | 📅 2024-09-18
@@ -608,6 +611,7 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 * 🌟[ECCV 2024](https://arxiv.org/pdf/2308.06493), EgoPoser: Robust Real-Time Egocentric Pose Estimation from Sparse and Intermittent Observations Everywhere, [website](https://siplab.org/projects/EgoPoser) / [code](https://github.com/eth-siplab/EgoPoser) ⭐ 58 | 🐛 0 | 🌐 Python | 📅 2025-08-28
 * 🌟[IROS 2020](https://arxiv.org/pdf/2003.05212), A Mobile Robot Hand-Arm Teleoperation System by Vision and IMU, [website](https://smilels.github.io/multimodal-translation-teleop/) / [code](https://github.com/Smilels/multimodal-translation-teleop) ⭐ 28 | 🐛 1 | 🌐 Python | 📅 2021-08-18
 * [arXiv 2022.03](https://arxiv.org/abs/2203.06972), iCub3 Avatar System: Enabling Remote Fully-Immersive Embodiment of Humanoid Robots, [Science Robotics](https://www.science.org/doi/10.1126/scirobotics.adh3834) / [github](https://github.com/ami-iit/paper_dafarra_2024_science-robotics_icub3-avatar-system) ⭐ 5 | 🐛 0 | 📅 2024-01-25
+* [arXiv 2026.10](https://arxiv.org/abs/2610.29903), HuMiT: Low-Latency Whole-Body Humanoid Teleoperation via Compact Reference Tracking, [website](https://xiaohu-art.github.io/Track/)
 * [arXiv 2026.10](https://arxiv.org/abs/2610.24257), Evaluating Lightweight Contact Feedback in Dual-Operator Collaborative Humanoid Teleoperation, [website](https://xrt-teleop.github.io)
 * [arXiv 2026.10](https://arxiv.org/abs/2610.07891), Beyond Retargeting: Low-Latency and Robust Humanoid Whole-Body Teleoperation with Learned Atomic Motion Primitives
 * [IROS 2026 Workshop](https://arxiv.org/abs/2610.00718), Toward Humanoid Robots in Construction: A Teleoperation Feasibility Study
@@ -659,8 +663,11 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 ## Locomotion
 
 * 🌟[arXiv 2024.10](https://arxiv.org/abs/2410.11825), Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies, [website](https://lipschitz-constrained-policy.github.io/) / [code](https://github.com/zixuan417/smooth-humanoid-locomotion) ⭐ 242 | 🐛 2 | 🌐 Python | 📅 2025-06-16
-* 🌟[arXiv 2024.11](https://arxiv.org/abs/2411.01919), Real-Time Polygonal Semantic Mapping for Humanoid Robot Stair Climbing, [code](https://github.com/BTFrontier/polygon_mapping) ⭐ 92 | 🐛 1 | 🌐 Python | 📅 2024-12-16
+* 🌟[arXiv 2024.11](https://arxiv.org/abs/2411.01919), Real-Time Polygonal Semantic Mapping for Humanoid Robot Stair Climbing, [code](https://github.com/BTFrontier/polygon_mapping) ⭐ 93 | 🐛 1 | 🌐 Python | 📅 2024-12-16
 * 🌟[arXiv 2026.02](https://arxiv.org/abs/2602.06445), ECO: Energy-Constrained Optimization with Reinforcement Learning for Humanoid Walking, [website](https://sites.google.com/view/eco-humanoid) / [code](https://github.com/bigai-ai/ECO-humanoid) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2026-03-12
+* [arXiv 2026.10](https://arxiv.org/abs/2610.30080), Do Earth-Trained Humanoid Controllers Walk on the Moon? Gravity, Terrain, and Soil Transfer
+* [arXiv 2026.10](https://arxiv.org/abs/2610.30061), Test-Time Motion Steering for Perceptive Humanoid Fall Recovery, [website](https://osheraz.github.io/RISE/)
+* [arXiv 2026.10](https://arxiv.org/abs/2610.29612), Watch Your Step: Anticipated Perception for Humanoid Locomotion, [website](https://leggedrobotics.github.io/watch-your-step)
 * [arXiv 2026.10](https://arxiv.org/abs/2610.25701), Validation of Human Motor Development Scales with Humanoid Robots
 * [CoRL 2026](https://arxiv.org/abs/2610.14840), Push the Limit: Learning High-Speed Sprinting and Aggressive Cornering on a Full-Scale Humanoid
 * [arXiv 2026.10](https://arxiv.org/abs/2610.11505), DAMP: Humanoid Locomotion via Denoised Belief Learning and Adversarial Motion Priors
@@ -914,8 +921,8 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 ## State Estimation
 
-* [github](https://github.com/UZ-SLAMLab/ORB_SLAM3) ⭐ 9,165 | 🐛 573 | 🌐 C++ | 📅 2024-07-24, ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
-* [github](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) ⭐ 4,752 | 🐛 214 | 🌐 C++ | 📅 2024-05-23, VINS-Fusion: An optimization-based multi-sensor state estimator
+* [github](https://github.com/UZ-SLAMLab/ORB_SLAM3) ⭐ 9,166 | 🐛 573 | 🌐 C++ | 📅 2024-07-24, ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
+* [github](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion) ⭐ 4,755 | 🐛 214 | 🌐 C++ | 📅 2024-05-23, VINS-Fusion: An optimization-based multi-sensor state estimator
 * [github](https://github.com/MIT-SPARK/Kimera) ⭐ 2,141 | 🐛 2 | 📅 2021-01-30, Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping
 * 🌟[arXiv 2026.10](https://arxiv.org/abs/2610.25288), Vision as Proprioception: Estimating Humanoid Robot Pose from Video
 * 🌟[arXiv 2026.09](https://arxiv.org/abs/2609.23610), PRIMO: Prior-Informed Odometry from Human-Motion Tracking for Humanoid Robots
@@ -965,12 +972,13 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 ## Hardware Design
 
-* [github](https://github.com/MuShibo/Micro-Wheeled_leg-Robot) ⭐ 3,739 | 🐛 11 | 🌐 C++ | 📅 2024-12-12, Micro-Wheeled\_leg-Robot
-* [github](https://github.com/TetherIA/aero-hand-open/tree/main) ⭐ 1,021 | 🐛 4 | 🌐 Python | 📅 2026-09-15, Aero Hand Open
-* 2024.11, Zeroth Bot, [Github](https://github.com/zeroth-robotics/zeroth-bot) ⭐ 840 | 🐛 4 | 📅 2025-05-24
-* 🌟[arXiv 2025.02](https://arxiv.org/abs/2502.00893), **ToddlerBot**: Open-Source ML-Compatible Humanoid Platform for Loco-Manipulation, [website](https://toddlerbot.github.io/) / [github](https://github.com/hshi74/toddlerbot) ⭐ 785 | 🐛 3 | 🌐 Python | 📅 2026-07-31
-* 🌟[arXiv 2024.07](https://arxiv.org/abs/2407.21781), Berkeley Humanoid: A Research Platform for Learning-based Control, [website](https://berkeley-humanoid.com/) / [code](https://github.com/HybridRobotics/isaac_berkeley_humanoid) ⭐ 296 | 🐛 3 | 🌐 Python | 📅 2024-10-12
-* 🌟[arXiv 2024.09](https://arxiv.org/abs/2409.19795), The Duke Humanoid: Design and Control For Energy Efficient Bipedal Locomotion Using Passive Dynamics, [website](http://www.generalroboticslab.com/blogs/blog/2024-09-29-dukehumanoidv1/index.html) / [code](https://github.com/generalroboticslab/dukeHumanoidHardwareControl) ⭐ 25 | 🐛 0 | 🌐 C++ | 📅 2024-10-06
+* [github](https://github.com/MuShibo/Micro-Wheeled_leg-Robot) ⭐ 3,748 | 🐛 11 | 🌐 C++ | 📅 2024-12-12, Micro-Wheeled\_leg-Robot
+* [github](https://github.com/TetherIA/aero-hand-open/tree/main) ⭐ 1,023 | 🐛 4 | 🌐 Python | 📅 2026-09-15, Aero Hand Open
+* 2024.11, Zeroth Bot, [Github](https://github.com/zeroth-robotics/zeroth-bot) ⭐ 841 | 🐛 4 | 📅 2025-05-24
+* 🌟[arXiv 2025.02](https://arxiv.org/abs/2502.00893), **ToddlerBot**: Open-Source ML-Compatible Humanoid Platform for Loco-Manipulation, [website](https://toddlerbot.github.io/) / [github](https://github.com/hshi74/toddlerbot) ⭐ 787 | 🐛 3 | 🌐 Python | 📅 2026-07-31
+* 🌟[arXiv 2024.07](https://arxiv.org/abs/2407.21781), Berkeley Humanoid: A Research Platform for Learning-based Control, [website](https://berkeley-humanoid.com/) / [code](https://github.com/HybridRobotics/isaac_berkeley_humanoid) ⭐ 297 | 🐛 3 | 🌐 Python | 📅 2024-10-12
+* 🌟[arXiv 2024.09](https://arxiv.org/abs/2409.19795), The Duke Humanoid: Design and Control For Energy Efficient Bipedal Locomotion Using Passive Dynamics, [website](http://www.generalroboticslab.com/blogs/blog/2024-09-29-dukehumanoidv1/index.html) / [code](https://github.com/generalroboticslab/dukeHumanoidHardwareControl) ⭐ 26 | 🐛 0 | 🌐 C++ | 📅 2024-10-06
+* [Humanoids 2026](https://arxiv.org/abs/2610.29030), PHD-Hand: A Printable Humanoid Dexterous Hand with Linkage-Driven 3-DOA Digits
 * [arXiv 2026.10](https://arxiv.org/abs/2610.16604), Design and Analysis of a Nonlinear Parallel Mechanism Coupling for Dynamic Humanoid Legs
 * [arXiv 2026.10](https://arxiv.org/abs/2610.08737), PhoneBot: A Low-Cost Open Humanoid Robot Platform Reusing Smartphones, [website](https://phonebot.dev)
 * [arXiv 2026.09](https://arxiv.org/abs/2609.32471), GlowTact: Simple and Compact Vision-Based Tactile Sensing with High Sensitivity and Spatial Resolution, [website](https://glowtact.github.io/)
@@ -1027,11 +1035,11 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 
 ## Simulation Benchmark
 
-* arXiv 2024.12, **Genesis**: A Generative and Universal Physics Engine for Robotics and Beyond, [code](https://github.com/Genesis-Embodied-AI/Genesis) ⭐ 30,098 | 🐛 156 | 🌐 Python | 📅 2026-10-20 / [website](https://genesis-embodied-ai.github.io/)
-* 🌟[arXiv 2024.10](https://arxiv.org/abs/2410.00425), ManiSkill3: GPU Parallelized Robotics Simulation and Rendering for Generalizable Embodied AI, [website](https://www.maniskill.ai/home) / [code](https://github.com/haosulab/ManiSkill) ⭐ 3,445 | 🐛 162 | 🌐 Python | 📅 2026-08-04
-* 🌟 2025.01, MuJoCo Playground, [github](https://github.com/google-deepmind/mujoco_playground) ⭐ 2,258 | 🐛 117 | 🌐 Python | 📅 2026-10-19 / [website](https://playground.mujoco.org/)
+* arXiv 2024.12, **Genesis**: A Generative and Universal Physics Engine for Robotics and Beyond, [code](https://github.com/Genesis-Embodied-AI/Genesis) ⭐ 30,104 | 🐛 157 | 🌐 Python | 📅 2026-10-21 / [website](https://genesis-embodied-ai.github.io/)
+* 🌟[arXiv 2024.10](https://arxiv.org/abs/2410.00425), ManiSkill3: GPU Parallelized Robotics Simulation and Rendering for Generalizable Embodied AI, [website](https://www.maniskill.ai/home) / [code](https://github.com/haosulab/ManiSkill) ⭐ 3,451 | 🐛 164 | 🌐 Python | 📅 2026-08-04
+* 🌟 2025.01, MuJoCo Playground, [github](https://github.com/google-deepmind/mujoco_playground) ⭐ 2,258 | 🐛 84 | 🌐 Python | 📅 2026-10-22 / [website](https://playground.mujoco.org/)
 * 🌟[arXiv 2024.04](https://arxiv.org/abs/2404.05695), Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer, [website](https://sites.google.com/view/humanoid-gym/) / [code](https://github.com/roboterax/humanoid-gym) ⭐ 2,105 | 🐛 24 | 🌐 Python | 📅 2025-01-26
-* 🌟[arXiv 2024.06](https://arxiv.org/abs/2406.02523), RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots, [website](https://robocasa.ai/) / [code](https://github.com/robocasa/robocasa) ⭐ 1,823 | 🐛 65 | 🌐 Python | 📅 2026-10-18
+* 🌟[arXiv 2024.06](https://arxiv.org/abs/2406.02523), RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots, [website](https://robocasa.ai/) / [code](https://github.com/robocasa/robocasa) ⭐ 1,824 | 🐛 65 | 🌐 Python | 📅 2026-10-21
 * 🌟[arXiv](https://arxiv.org/abs/2407.10943), GRUtopia: Dream General Robots in a City at Scale, [website](https://github.com/OpenRobotLab/GRUtopia) ⭐ 1,303 | 🐛 29 | 🌐 Python | 📅 2025-09-04
 * 🌟[arXiv 2024.03](https://arxiv.org/abs/2403.10506), HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation, [website](https://humanoid-bench.github.io/) / [code](https://github.com/carlosferrazza/humanoid-bench) ⭐ 802 | 🐛 26 | 🌐 Python | 📅 2025-09-18
 * 🌟[arXiv 2024.07](https://arxiv.org/abs/2407.07788), BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark, [website](https://chernyadev.github.io/bigym/) / [code](https://github.com/chernyadev/bigym) ⭐ 1 | 🐛 0 | 📅 2026-05-27
@@ -1083,8 +1091,8 @@ Feel free to pull a request for new papers/codes about humanoid robot learning.
 * 🌟[arXiv 2018.08](https://arxiv.org/abs/1804.02717), DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills, [website](https://xbpeng.github.io/projects/DeepMimic/index.html) / [code](https://github.com/xbpeng/DeepMimic) ⭐ 3,116 | 🐛 104 | 🌐 C++ | 📅 2025-11-27
 * 🌟[arXiv 2023.05](https://arxiv.org/abs/2305.06456), Perpetual Humanoid Control for Real-time Simulated Avatars, [code](https://github.com/ZhengyiLuo/PHC) ⭐ 1,305 | 🐛 29 | 🌐 Python | 📅 2025-08-21
 * 🌟[arXiv 2022.08](https://arxiv.org/abs/2205.01906), ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters, [website](https://xbpeng.github.io/projects/ASE/index.html) / [code](https://github.com/nv-tlabs/ASE/?tab=readme-ov-file) ⭐ 1,129 | 🐛 43 | 🌐 Python | 📅 2025-12-07
-* 🌟[arXiv 2025.02](https://arxiv.org/abs/2502.20390), InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions, [website](https://sirui-xu.github.io/InterMimic/), [code](https://github.com/Sirui-Xu/InterMimic) ⭐ 545 | 🐛 1 | 🌐 Python | 📅 2026-04-21
-* 🌟 SIGGRAPH 2025, PARC: Physics-based Augmentation with Reinforcement Learning for Character Controllers, [website](https://michaelx.io/parc/index.html) / [github](https://github.com/mshoe/PARC) ⭐ 357 | 🐛 4 | 🌐 Python | 📅 2026-02-04
+* 🌟[arXiv 2025.02](https://arxiv.org/abs/2502.20390), InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions, [website](https://sirui-xu.github.io/InterMimic/), [code](https://github.com/Sirui-Xu/InterMimic) ⭐ 546 | 🐛 1 | 🌐 Python | 📅 2026-04-21
+* 🌟 SIGGRAPH 2025, PARC: Physics-based Augmentation with Reinforcement Learning for Character Controllers, [website](https://michaelx.io/parc/index.html) / [github](https://github.com/mshoe/PARC) ⭐ 358 | 🐛 4 | 🌐 Python | 📅 2026-02-04
 * [SIGGRAPH 2010](https://dl.acm.org/doi/abs/10.1145/1833349.1778770?casa_token=j3esx-hx0GAAAAAA:OvRU6YYrNo2ZP9IyXGVDryWJqHmvU-oVhnzog8RFKKySQJjganzaAmHff6CQ4a0qzfJZu-J6Buf4Ug), Spatial relationship preserving character motion adaptation
 * [CoRL 2026](https://arxiv.org/abs/2610.18147), Walk Like This: Stylized Locomotion for Physics-Based Characters through Example-Driven Diffusion
 * 🌟[arXiv 2026.10](https://arxiv.org/abs/2610.14911), Scalable Multi-Human Cooperative Manipulation via Commander-Executor Coordination
@@ -1225,4 +1233,4 @@ If you have questions/suggestions, feel free to email Yanjie Ze.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
