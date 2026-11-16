@@ -120,6 +120,36 @@
         },
         {
           "node_type": "item",
+          "title": "🌟arXiv 2026.11.12",
+          "description": ", BlinkMimic: Training a Humanoid Motion Tracker in Minutes on a Single GPU, code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Whole-body motion tracking for the Unitree G1 in about 3 minutes on one GPU.",
+            "homepage": null,
+            "id": 1443500748,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-03T01:58:28Z",
+            "open_issues": 0,
+            "owner": "fuyichen0725",
+            "repo": "blinkmimic",
+            "stars": 245,
+            "topics": [
+              "humanoid-robotics",
+              "lafan1",
+              "mjlab",
+              "motion-tracking",
+              "mujoco-warp",
+              "supermimic",
+              "unitree-g1",
+              "world-model"
+            ]
+          },
+          "first_seen": "2026-11-16T11:12:13.512Z"
+        },
+        {
+          "node_type": "item",
           "title": "🌟arXiv 2026.05",
           "description": ", SUGAR: A Scalable Human-Video-Driven Generalizable Humanoid Loco-Manipulation Learning Framework, website / code",
           "children": [],
@@ -134,7 +164,7 @@
             "open_issues": 3,
             "owner": "tianshuwu",
             "repo": "SUGAR",
-            "stars": 135,
+            "stars": 136,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -445,7 +475,7 @@
             "open_issues": 3,
             "owner": "GalaxyGeneralRobotics",
             "repo": "Humanoid-GPT",
-            "stars": 498,
+            "stars": 499,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -718,7 +748,7 @@
             "open_issues": 574,
             "owner": "UZ-SLAMLab",
             "repo": "ORB_SLAM3",
-            "stars": 9249,
+            "stars": 9251,
             "topics": [
               "slam-algorithms"
             ]
@@ -741,7 +771,7 @@
             "open_issues": 214,
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Fusion",
-            "stars": 4791,
+            "stars": 4793,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -762,7 +792,7 @@
             "open_issues": 2,
             "owner": "MIT-SPARK",
             "repo": "Kimera",
-            "stars": 2147,
+            "stars": 2146,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -796,7 +826,7 @@
             "open_issues": 12,
             "owner": "MuShibo",
             "repo": "Micro-Wheeled_leg-Robot",
-            "stars": 3849,
+            "stars": 3858,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -817,7 +847,7 @@
             "open_issues": 4,
             "owner": "Chestnut-Robotics",
             "repo": "aero-hand-open",
-            "stars": 1105,
+            "stars": 1106,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -838,7 +868,7 @@
             "open_issues": 4,
             "owner": "zeroth-robotics",
             "repo": "zeroth-bot",
-            "stars": 853,
+            "stars": 854,
             "topics": [
               "humanoid",
               "rl",
@@ -861,7 +891,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-07-31T07:04:15Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "hshi74",
             "repo": "toddlerbot",
             "stars": 803,
@@ -929,11 +959,11 @@
             "id": 712225112,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-15T10:24:35Z",
-            "open_issues": 155,
+            "last_commit": "2026-11-16T10:46:13Z",
+            "open_issues": 151,
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 30227,
+            "stars": 30235,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -954,7 +984,7 @@
             "open_issues": 170,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3513,
+            "stars": 3519,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -978,11 +1008,11 @@
             "id": 898162230,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-15T05:42:18Z",
+            "last_commit": "2026-11-15T15:08:46Z",
             "open_issues": 86,
             "owner": "google-deepmind",
             "repo": "mujoco_playground",
-            "stars": 2308,
+            "stars": 2310,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -1003,7 +1033,7 @@
             "open_issues": 25,
             "owner": "roboterax",
             "repo": "humanoid-gym",
-            "stars": 2122,
+            "stars": 2124,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -1032,7 +1062,7 @@
             "open_issues": 65,
             "owner": "robocasa",
             "repo": "robocasa",
-            "stars": 1876,
+            "stars": 1877,
             "topics": [
               "humanoid-robot",
               "physics-simulation",
@@ -1079,10 +1109,41 @@
             "open_issues": 26,
             "owner": "carlosferrazza",
             "repo": "humanoid-bench",
-            "stars": 805,
+            "stars": 806,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
+        },
+        {
+          "node_type": "item",
+          "title": "🌟arXiv 2026.11.11",
+          "description": ", Elastra: A Simulation Framework for Elastic Bodies, code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Elastra, a simulation framework for elastic bodies. MuJoCo models of a mattress and a trampoline, with residual policies that let the Unitree G1 humanoid stand up on them. ",
+            "homepage": null,
+            "id": 1453499863,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-14T05:09:07Z",
+            "open_issues": 1,
+            "owner": "yichg",
+            "repo": "elastra",
+            "stars": 1,
+            "topics": [
+              "contact-rich",
+              "deformable-surfaces",
+              "humanoid",
+              "mujoco",
+              "reinforcement-learning",
+              "residual-reinforcement-learning",
+              "robotics",
+              "simulation",
+              "unitree-g1"
+            ]
+          },
+          "first_seen": "2026-11-16T11:12:13.512Z"
         },
         {
           "node_type": "item",
@@ -1169,7 +1230,7 @@
             "open_issues": 29,
             "owner": "ZhengyiLuo",
             "repo": "PHC",
-            "stars": 1309,
+            "stars": 1310,
             "topics": [
               "avatar",
               "humanoid-control",
@@ -1221,7 +1282,7 @@
             "open_issues": 1,
             "owner": "Sirui-Xu",
             "repo": "InterMimic",
-            "stars": 559,
+            "stars": 560,
             "topics": [
               "character-animation",
               "human-motion-generation",
@@ -1332,7 +1393,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T10:48:56.857Z",
+    "last_updated": "2026-11-16T11:12:13.512Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Paper List for Humanoid Robot Learning.",
@@ -1340,14 +1401,14 @@
       "id": 881022384,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-11-14T18:34:12Z",
+      "last_commit": "2026-11-15T13:00:30Z",
       "open_issues": 1,
       "owner": "YanjieZe",
       "repo": "awesome-humanoid-robot-learning",
-      "stars": 2899,
+      "stars": 2901,
       "topics": []
     },
-    "original_repository_sha": "39bda588fc9248426ddef43305baa0c938a70aa4",
+    "original_repository_sha": "936f16702f94a3d49a9c5813d5e833a38873714a",
     "enhanced_repository": "enhansome/enhansome-humanoid-robot-learning",
     "enhanced_repository_description": null,
     "title": "Awesome-Humanoid-Robot-Learning with stars"
