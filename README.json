@@ -134,7 +134,7 @@
             "open_issues": 0,
             "owner": "fuyichen0725",
             "repo": "blinkmimic",
-            "stars": 245,
+            "stars": 262,
             "topics": [
               "humanoid-robotics",
               "lafan1",
@@ -233,7 +233,7 @@
             "open_issues": 11,
             "owner": "j96w",
             "repo": "DexCap",
-            "stars": 427,
+            "stars": 428,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -517,7 +517,7 @@
             "open_issues": 17,
             "owner": "eth-siplab",
             "repo": "AvatarPoser",
-            "stars": 336,
+            "stars": 337,
             "topics": [
               "3d-vision",
               "augmented-reality",
@@ -745,10 +745,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2024-07-24T08:41:52Z",
-            "open_issues": 574,
+            "open_issues": 575,
             "owner": "UZ-SLAMLab",
             "repo": "ORB_SLAM3",
-            "stars": 9251,
+            "stars": 9253,
             "topics": [
               "slam-algorithms"
             ]
@@ -771,7 +771,7 @@
             "open_issues": 214,
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Fusion",
-            "stars": 4793,
+            "stars": 4795,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -792,7 +792,7 @@
             "open_issues": 2,
             "owner": "MIT-SPARK",
             "repo": "Kimera",
-            "stars": 2146,
+            "stars": 2147,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -826,7 +826,7 @@
             "open_issues": 12,
             "owner": "MuShibo",
             "repo": "Micro-Wheeled_leg-Robot",
-            "stars": 3858,
+            "stars": 3861,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -847,7 +847,7 @@
             "open_issues": 4,
             "owner": "Chestnut-Robotics",
             "repo": "aero-hand-open",
-            "stars": 1106,
+            "stars": 1107,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -890,11 +890,11 @@
             "id": 926431156,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-07-31T07:04:15Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-16T22:30:44Z",
+            "open_issues": 2,
             "owner": "hshi74",
             "repo": "toddlerbot",
-            "stars": 803,
+            "stars": 804,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -959,11 +959,11 @@
             "id": 712225112,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T10:46:13Z",
-            "open_issues": 151,
+            "last_commit": "2026-11-16T22:22:07Z",
+            "open_issues": 162,
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 30235,
+            "stars": 30245,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -984,7 +984,7 @@
             "open_issues": 170,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3519,
+            "stars": 3520,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -1008,11 +1008,11 @@
             "id": 898162230,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-15T15:08:46Z",
+            "last_commit": "2026-11-17T00:09:03Z",
             "open_issues": 86,
             "owner": "google-deepmind",
             "repo": "mujoco_playground",
-            "stars": 2310,
+            "stars": 2314,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -1062,7 +1062,7 @@
             "open_issues": 65,
             "owner": "robocasa",
             "repo": "robocasa",
-            "stars": 1877,
+            "stars": 1878,
             "topics": [
               "humanoid-robot",
               "physics-simulation",
@@ -1088,7 +1088,7 @@
             "open_issues": 29,
             "owner": "InternRobotics",
             "repo": "InternUtopia",
-            "stars": 1308,
+            "stars": 1310,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -1188,7 +1188,7 @@
             "open_issues": 104,
             "owner": "xbpeng",
             "repo": "DeepMimic",
-            "stars": 3133,
+            "stars": 3134,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -1209,7 +1209,7 @@
             "open_issues": 104,
             "owner": "xbpeng",
             "repo": "DeepMimic",
-            "stars": 3133,
+            "stars": 3134,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -1230,7 +1230,7 @@
             "open_issues": 29,
             "owner": "ZhengyiLuo",
             "repo": "PHC",
-            "stars": 1310,
+            "stars": 1309,
             "topics": [
               "avatar",
               "humanoid-control",
@@ -1339,7 +1339,7 @@
             "open_issues": 17,
             "owner": "eth-siplab",
             "repo": "AvatarPoser",
-            "stars": 336,
+            "stars": 337,
             "topics": [
               "3d-vision",
               "augmented-reality",
@@ -1393,7 +1393,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T11:12:13.512Z",
+    "last_updated": "2026-11-17T11:47:48.929Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Paper List for Humanoid Robot Learning.",
@@ -1401,14 +1401,14 @@
       "id": 881022384,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-11-15T13:00:30Z",
+      "last_commit": "2026-11-16T13:10:26Z",
       "open_issues": 1,
       "owner": "YanjieZe",
       "repo": "awesome-humanoid-robot-learning",
-      "stars": 2901,
+      "stars": 2902,
       "topics": []
     },
-    "original_repository_sha": "936f16702f94a3d49a9c5813d5e833a38873714a",
+    "original_repository_sha": "6a6fa7d69de12511c813f29f6cf6b943f7de89f9",
     "enhanced_repository": "enhansome/enhansome-humanoid-robot-learning",
     "enhanced_repository_description": null,
     "title": "Awesome-Humanoid-Robot-Learning with stars"
