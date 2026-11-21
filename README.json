@@ -134,7 +134,7 @@
             "open_issues": 0,
             "owner": "fuyichen0725",
             "repo": "blinkmimic",
-            "stars": 316,
+            "stars": 319,
             "topics": [
               "humanoid-robotics",
               "lafan1",
@@ -168,6 +168,27 @@
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
+        },
+        {
+          "node_type": "item",
+          "title": "arXiv 2026.11.19",
+          "description": ", Awaken-HI: Scaling Humanoid Intelligence with Whole-Body Human Experience, website, code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1461432595,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-11-20T07:43:05Z",
+            "open_issues": 0,
+            "owner": "engineai-robotics",
+            "repo": "Awaken-HI",
+            "stars": 8,
+            "topics": []
+          },
+          "first_seen": "2026-11-21T10:57:53.209Z"
         }
       ],
       "title": "Loco-Manipulation and Whole-Body-Control"
@@ -212,7 +233,7 @@
             "open_issues": 4,
             "owner": "YanjieZe",
             "repo": "Improved-3D-Diffusion-Policy",
-            "stars": 560,
+            "stars": 561,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -454,7 +475,7 @@
             "open_issues": 4,
             "owner": "YanjieZe",
             "repo": "Improved-3D-Diffusion-Policy",
-            "stars": 560,
+            "stars": 561,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -475,7 +496,7 @@
             "open_issues": 3,
             "owner": "GalaxyGeneralRobotics",
             "repo": "Humanoid-GPT",
-            "stars": 500,
+            "stars": 501,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -725,6 +746,27 @@
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
+        },
+        {
+          "node_type": "item",
+          "title": "🌟arXiv 2026.11.19",
+          "description": ", Controlling the Humanoid Robot H1-2 With a Simulated Biologically Plausible Network, code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Controlling the Humanoid Robot H1-2 With a Simulated Biologically Plausible Network",
+            "homepage": null,
+            "id": 1413582438,
+            "language": "Python",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-10-10T19:25:49Z",
+            "open_issues": 0,
+            "owner": "fatima-at",
+            "repo": "Bio_SNN_h12",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-11-21T10:57:53.209Z"
         }
       ],
       "title": "Locomotion"
@@ -748,7 +790,7 @@
             "open_issues": 575,
             "owner": "UZ-SLAMLab",
             "repo": "ORB_SLAM3",
-            "stars": 9264,
+            "stars": 9266,
             "topics": [
               "slam-algorithms"
             ]
@@ -771,7 +813,7 @@
             "open_issues": 214,
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Fusion",
-            "stars": 4798,
+            "stars": 4800,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -847,7 +889,7 @@
             "open_issues": 4,
             "owner": "Chestnut-Robotics",
             "repo": "aero-hand-open",
-            "stars": 1112,
+            "stars": 1116,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -980,11 +1022,11 @@
             "id": 712225112,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T00:30:36Z",
-            "open_issues": 176,
+            "last_commit": "2026-11-20T23:39:00Z",
+            "open_issues": 181,
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 30272,
+            "stars": 30281,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -1005,7 +1047,7 @@
             "open_issues": 170,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3528,
+            "stars": 3532,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -1029,7 +1071,7 @@
             "id": 898162230,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T23:43:14Z",
+            "last_commit": "2026-11-21T09:27:38Z",
             "open_issues": 85,
             "owner": "google-deepmind",
             "repo": "mujoco_playground",
@@ -1054,7 +1096,7 @@
             "open_issues": 25,
             "owner": "roboterax",
             "repo": "humanoid-gym",
-            "stars": 2122,
+            "stars": 2123,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -1080,7 +1122,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-18T19:49:21Z",
-            "open_issues": 67,
+            "open_issues": 68,
             "owner": "robocasa",
             "repo": "robocasa",
             "stars": 1880,
@@ -1092,6 +1134,27 @@
             ]
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
+        },
+        {
+          "node_type": "item",
+          "title": "🌟arXiv 2026.11.19",
+          "description": ", LocoMuJoCo: A Comprehensive Imitation Learning Benchmark for Whole-Body Control, code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Imitation learning benchmark focusing on complex locomotion tasks using MuJoCo.",
+            "homepage": "https://loco-mujoco.readthedocs.io/",
+            "id": 657267150,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-20T17:51:46Z",
+            "open_issues": 41,
+            "owner": "robfiras",
+            "repo": "loco-mujoco",
+            "stars": 1489,
+            "topics": []
+          },
+          "first_seen": "2026-11-21T10:57:53.209Z"
         },
         {
           "node_type": "item",
@@ -1109,7 +1172,7 @@
             "open_issues": 29,
             "owner": "InternRobotics",
             "repo": "InternUtopia",
-            "stars": 1308,
+            "stars": 1309,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -1330,7 +1393,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-02-04T17:32:14Z",
-            "open_issues": 4,
+            "open_issues": 3,
             "owner": "mshoe",
             "repo": "PARC",
             "stars": 367,
@@ -1408,13 +1471,34 @@
             ]
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
+        },
+        {
+          "node_type": "item",
+          "title": "🌟arXiv 2026.11.19",
+          "description": ", Fast and Accurate Body Estimation in Pixels, World Space and Scenes, website, code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "FAB: Fast and Accurate Body Estimation",
+            "homepage": null,
+            "id": 1462454189,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-21T06:09:40Z",
+            "open_issues": 1,
+            "owner": "noahcao",
+            "repo": "FAB",
+            "stars": 14,
+            "topics": []
+          },
+          "first_seen": "2026-11-21T10:57:53.209Z"
         }
       ],
       "title": "Human Motion Analysis and Synthesis"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T11:33:25.974Z",
+    "last_updated": "2026-11-21T10:57:53.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Paper List for Humanoid Robot Learning.",
@@ -1422,14 +1506,14 @@
       "id": 881022384,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-11-19T13:10:10Z",
+      "last_commit": "2026-11-20T13:03:19Z",
       "open_issues": 1,
       "owner": "YanjieZe",
       "repo": "awesome-humanoid-robot-learning",
-      "stars": 2905,
+      "stars": 2906,
       "topics": []
     },
-    "original_repository_sha": "5111cf6e6990df9a74ece89cc8f0ea311a6a4346",
+    "original_repository_sha": "38eb70f48c2e2aafeeb6d8eee1d90f9b0139b90b",
     "enhanced_repository": "enhansome/enhansome-humanoid-robot-learning",
     "enhanced_repository_description": null,
     "title": "Awesome-Humanoid-Robot-Learning with stars"
