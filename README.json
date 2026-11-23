@@ -85,9 +85,9 @@
             "license": "NOASSERTION",
             "last_commit": "2026-09-08T20:28:31Z",
             "open_issues": 3,
-            "owner": "InternRobotics",
+            "owner": "Sage-PhysicalAI",
             "repo": "OpenHomie",
-            "stars": 626,
+            "stars": 628,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -134,7 +134,7 @@
             "open_issues": 0,
             "owner": "fuyichen0725",
             "repo": "blinkmimic",
-            "stars": 320,
+            "stars": 323,
             "topics": [
               "humanoid-robotics",
               "lafan1",
@@ -185,7 +185,7 @@
             "open_issues": 0,
             "owner": "engineai-robotics",
             "repo": "Awaken-HI",
-            "stars": 11,
+            "stars": 14,
             "topics": []
           },
           "first_seen": "2026-11-21T10:57:53.209Z"
@@ -452,9 +452,9 @@
             "license": "NOASSERTION",
             "last_commit": "2026-09-08T20:28:31Z",
             "open_issues": 3,
-            "owner": "InternRobotics",
+            "owner": "Sage-PhysicalAI",
             "repo": "OpenHomie",
-            "stars": 626,
+            "stars": 628,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -496,7 +496,7 @@
             "open_issues": 3,
             "owner": "GalaxyGeneralRobotics",
             "repo": "Humanoid-GPT",
-            "stars": 502,
+            "stars": 501,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -790,7 +790,7 @@
             "open_issues": 575,
             "owner": "UZ-SLAMLab",
             "repo": "ORB_SLAM3",
-            "stars": 9267,
+            "stars": 9271,
             "topics": [
               "slam-algorithms"
             ]
@@ -813,7 +813,7 @@
             "open_issues": 214,
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Fusion",
-            "stars": 4800,
+            "stars": 4801,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -868,7 +868,7 @@
             "open_issues": 12,
             "owner": "MuShibo",
             "repo": "Micro-Wheeled_leg-Robot",
-            "stars": 3866,
+            "stars": 3870,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -889,7 +889,7 @@
             "open_issues": 4,
             "owner": "Chestnut-Robotics",
             "repo": "aero-hand-open",
-            "stars": 1118,
+            "stars": 1119,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -1022,11 +1022,11 @@
             "id": 712225112,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-22T01:24:11Z",
+            "last_commit": "2026-11-23T11:11:09Z",
             "open_issues": 184,
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 30285,
+            "stars": 30300,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -1047,7 +1047,7 @@
             "open_issues": 171,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3534,
+            "stars": 3539,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -1066,16 +1066,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "An open-source library for sim and real robot demos on top of MuJoCo.",
-            "homepage": "playground.mujoco.org",
+            "description": "An open-source library for sim and real robot demos curated by the MuJoCo team.",
+            "homepage": "https://playground.mujoco.org",
             "id": 898162230,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T09:27:38Z",
-            "open_issues": 85,
+            "last_commit": "2026-11-23T12:20:40Z",
+            "open_issues": 83,
             "owner": "google-deepmind",
             "repo": "mujoco_playground",
-            "stars": 2330,
+            "stars": 2336,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -1096,7 +1096,7 @@
             "open_issues": 25,
             "owner": "roboterax",
             "repo": "humanoid-gym",
-            "stars": 2124,
+            "stars": 2125,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -1122,10 +1122,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-18T19:49:21Z",
-            "open_issues": 68,
+            "open_issues": 69,
             "owner": "robocasa",
             "repo": "robocasa",
-            "stars": 1881,
+            "stars": 1882,
             "topics": [
               "humanoid-robot",
               "physics-simulation",
@@ -1148,10 +1148,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-21T15:34:35Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "robfiras",
             "repo": "loco-mujoco",
-            "stars": 1489,
+            "stars": 1493,
             "topics": []
           },
           "first_seen": "2026-11-21T10:57:53.209Z"
@@ -1170,7 +1170,7 @@
             "license": "MIT",
             "last_commit": "2025-09-04T06:38:50Z",
             "open_issues": 29,
-            "owner": "InternRobotics",
+            "owner": "Sage-PhysicalAI",
             "repo": "InternUtopia",
             "stars": 1311,
             "topics": []
@@ -1272,7 +1272,7 @@
             "open_issues": 104,
             "owner": "xbpeng",
             "repo": "DeepMimic",
-            "stars": 3133,
+            "stars": 3134,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -1293,7 +1293,7 @@
             "open_issues": 104,
             "owner": "xbpeng",
             "repo": "DeepMimic",
-            "stars": 3133,
+            "stars": 3134,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -1341,7 +1341,7 @@
             "open_issues": 43,
             "owner": "nv-tlabs",
             "repo": "ASE",
-            "stars": 1129,
+            "stars": 1128,
             "topics": [
               "animation",
               "physics-simulation",
@@ -1442,6 +1442,27 @@
         },
         {
           "node_type": "item",
+          "title": "🌟arXiv 2026.11.19",
+          "description": ", Fast and Accurate Body Estimation in Pixels, World Space and Scenes, website, code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "FAB: Fast and Accurate Body Estimation",
+            "homepage": null,
+            "id": 1462454189,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-21T06:09:40Z",
+            "open_issues": 1,
+            "owner": "noahcao",
+            "repo": "FAB",
+            "stars": 116,
+            "topics": []
+          },
+          "first_seen": "2026-11-21T10:57:53.209Z"
+        },
+        {
+          "node_type": "item",
           "title": "🌟ECCV 2024",
           "description": ", EgoPoser: Robust Real-Time Egocentric Pose Estimation from Sparse and Intermittent Observations Everywhere, website / code",
           "children": [],
@@ -1471,34 +1492,13 @@
             ]
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🌟arXiv 2026.11.19",
-          "description": ", Fast and Accurate Body Estimation in Pixels, World Space and Scenes, website, code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "FAB: Fast and Accurate Body Estimation",
-            "homepage": null,
-            "id": 1462454189,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-11-21T06:09:40Z",
-            "open_issues": 1,
-            "owner": "noahcao",
-            "repo": "FAB",
-            "stars": 51,
-            "topics": []
-          },
-          "first_seen": "2026-11-21T10:57:53.209Z"
         }
       ],
       "title": "Human Motion Analysis and Synthesis"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T11:18:09.317Z",
+    "last_updated": "2026-11-23T12:31:38.795Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Paper List for Humanoid Robot Learning.",
