@@ -134,7 +134,7 @@
             "open_issues": 0,
             "owner": "fuyichen0725",
             "repo": "blinkmimic",
-            "stars": 323,
+            "stars": 329,
             "topics": [
               "humanoid-robotics",
               "lafan1",
@@ -171,6 +171,42 @@
         },
         {
           "node_type": "item",
+          "title": "🌟arXiv 2026.11.22",
+          "description": ", ζ₀: A Framework for World Action Models with Joint Scene and Body Foresight in Humanoid Control, website, code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ζ₀ (Zeta0): World Action Models with Joint Scene & Body Foresight — Unitree G1 + SONIC + BrainCo capture, Ψ₀ / GR00T N1.7 training, RTC deploy & 3D-printable wrist mounts",
+            "homepage": "https://chenyizhi123.github.io/zeta0-project/",
+            "id": 1467314603,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-24T03:15:19Z",
+            "open_issues": 0,
+            "owner": "chenyizhi123",
+            "repo": "Zeta0",
+            "stars": 54,
+            "topics": [
+              "3d-printing",
+              "dexterous-manipulation",
+              "embodied-ai",
+              "flow-matching",
+              "gr00t",
+              "humanoid-robotics",
+              "lerobot",
+              "robotics",
+              "unitree-g1",
+              "vision-language-action",
+              "vla",
+              "whole-body-control",
+              "world-action-model",
+              "world-model"
+            ]
+          },
+          "first_seen": "2026-11-24T13:38:54.538Z"
+        },
+        {
+          "node_type": "item",
           "title": "arXiv 2026.11.19",
           "description": ", Awaken-HI: Scaling Humanoid Intelligence with Whole-Body Human Experience, website, code",
           "children": [],
@@ -185,7 +221,7 @@
             "open_issues": 0,
             "owner": "engineai-robotics",
             "repo": "Awaken-HI",
-            "stars": 14,
+            "stars": 17,
             "topics": []
           },
           "first_seen": "2026-11-21T10:57:53.209Z"
@@ -233,7 +269,7 @@
             "open_issues": 4,
             "owner": "YanjieZe",
             "repo": "Improved-3D-Diffusion-Policy",
-            "stars": 561,
+            "stars": 562,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -475,7 +511,7 @@
             "open_issues": 4,
             "owner": "YanjieZe",
             "repo": "Improved-3D-Diffusion-Policy",
-            "stars": 561,
+            "stars": 562,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -790,7 +826,7 @@
             "open_issues": 575,
             "owner": "UZ-SLAMLab",
             "repo": "ORB_SLAM3",
-            "stars": 9271,
+            "stars": 9274,
             "topics": [
               "slam-algorithms"
             ]
@@ -868,7 +904,7 @@
             "open_issues": 12,
             "owner": "MuShibo",
             "repo": "Micro-Wheeled_leg-Robot",
-            "stars": 3870,
+            "stars": 3877,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -910,7 +946,7 @@
             "open_issues": 4,
             "owner": "zeroth-robotics",
             "repo": "zeroth-bot",
-            "stars": 853,
+            "stars": 855,
             "topics": [
               "humanoid",
               "rl",
@@ -936,7 +972,7 @@
             "open_issues": 2,
             "owner": "hshi74",
             "repo": "toddlerbot",
-            "stars": 807,
+            "stars": 808,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -1022,11 +1058,11 @@
             "id": 712225112,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-23T11:11:09Z",
-            "open_issues": 184,
+            "last_commit": "2026-11-24T01:48:10Z",
+            "open_issues": 168,
             "owner": "Genesis-Embodied-AI",
             "repo": "genesis-world",
-            "stars": 30300,
+            "stars": 30310,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -1044,10 +1080,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-04T16:38:18Z",
-            "open_issues": 171,
+            "open_issues": 172,
             "owner": "mani-skill",
             "repo": "ManiSkill",
-            "stars": 3539,
+            "stars": 3542,
             "topics": [
               "embodied-ai",
               "reinforcement-learning",
@@ -1071,11 +1107,11 @@
             "id": 898162230,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-23T12:20:40Z",
+            "last_commit": "2026-11-24T13:27:03Z",
             "open_issues": 83,
             "owner": "google-deepmind",
             "repo": "mujoco_playground",
-            "stars": 2336,
+            "stars": 2341,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -1125,7 +1161,7 @@
             "open_issues": 69,
             "owner": "robocasa",
             "repo": "robocasa",
-            "stars": 1882,
+            "stars": 1887,
             "topics": [
               "humanoid-robot",
               "physics-simulation",
@@ -1147,11 +1183,11 @@
             "id": 657267150,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-21T15:34:35Z",
-            "open_issues": 40,
+            "last_commit": "2026-11-24T07:09:34Z",
+            "open_issues": 39,
             "owner": "robfiras",
             "repo": "loco-mujoco",
-            "stars": 1493,
+            "stars": 1496,
             "topics": []
           },
           "first_seen": "2026-11-21T10:57:53.209Z"
@@ -1172,7 +1208,7 @@
             "open_issues": 29,
             "owner": "Sage-PhysicalAI",
             "repo": "InternUtopia",
-            "stars": 1311,
+            "stars": 1312,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -1341,7 +1377,7 @@
             "open_issues": 43,
             "owner": "nv-tlabs",
             "repo": "ASE",
-            "stars": 1128,
+            "stars": 1129,
             "topics": [
               "animation",
               "physics-simulation",
@@ -1396,7 +1432,7 @@
             "open_issues": 3,
             "owner": "mshoe",
             "repo": "PARC",
-            "stars": 367,
+            "stars": 368,
             "topics": []
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
@@ -1456,7 +1492,7 @@
             "open_issues": 1,
             "owner": "noahcao",
             "repo": "FAB",
-            "stars": 116,
+            "stars": 143,
             "topics": []
           },
           "first_seen": "2026-11-21T10:57:53.209Z"
@@ -1492,13 +1528,34 @@
             ]
           },
           "first_seen": "2026-08-28T15:19:59.689Z"
+        },
+        {
+          "node_type": "item",
+          "title": "🌟arXiv 2026.11.23",
+          "description": ", Motion Mamba 2.0: Autoregressive Diffusion Mamba for Long-Horizon Humanoid Control, website, code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Motion Mamba 2.0: Autoregressive Diffusion Mamba for Long-Horizon Humanoid Control",
+            "homepage": "https://aigeeksgroup.github.io/MotionMamba2.0/",
+            "id": 1321282207,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-24T05:37:03Z",
+            "open_issues": 0,
+            "owner": "AIGeeksGroup",
+            "repo": "MotionMamba2.0",
+            "stars": 17,
+            "topics": []
+          },
+          "first_seen": "2026-11-24T13:38:54.538Z"
         }
       ],
       "title": "Human Motion Analysis and Synthesis"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T12:31:38.795Z",
+    "last_updated": "2026-11-24T13:38:54.538Z",
     "original_repository_info": {
       "archived": false,
       "description": "A Paper List for Humanoid Robot Learning.",
@@ -1506,14 +1563,14 @@
       "id": 881022384,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-11-20T13:03:19Z",
+      "last_commit": "2026-11-24T13:07:03Z",
       "open_issues": 1,
       "owner": "YanjieZe",
       "repo": "awesome-humanoid-robot-learning",
-      "stars": 2909,
+      "stars": 2910,
       "topics": []
     },
-    "original_repository_sha": "38eb70f48c2e2aafeeb6d8eee1d90f9b0139b90b",
+    "original_repository_sha": "9dec01521bcafdbfbebf5c34dc18335bf5a0fe4b",
     "enhanced_repository": "enhansome/enhansome-humanoid-robot-learning",
     "enhanced_repository_description": null,
     "title": "Awesome-Humanoid-Robot-Learning with stars"
